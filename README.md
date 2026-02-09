@@ -10,7 +10,7 @@ Analyze historical sales trends
 
 Identify seasonality in sales data
 
-Forecast future sales using AI
+Forecast future sales using AI 
 
 Detect anomalies in sales patterns
 
