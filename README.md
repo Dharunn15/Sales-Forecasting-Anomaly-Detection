@@ -1,123 +1,137 @@
-📊 Sales Forecasting & Anomaly Detection Dashboard 📌 Project Overview
+# 📊 Sales Forecasting & Anomaly Detection Dashboard (Power BI)
 
-This project focuses on Sales Forecasting and Anomaly Detection using Power BI AI features. The goal is to move from reactive reporting to predictive analytics, enabling businesses to forecast future sales, detect unusual patterns, and gain automated insights.
+## 📌 Project Overview
 
-The dashboard helps management identify trends, seasonality, risks, and opportunities in sales data.
+This project focuses on **Sales Forecasting and Anomaly Detection** using **Power BI AI features**.  
+The objective is to move from traditional reactive reporting to **predictive analytics**, enabling businesses to forecast future sales, detect unusual patterns, and gain automated insights.
 
-🎯 Objectives
+The dashboard empowers management to identify **trends, seasonality, risks, and opportunities** in sales data for proactive decision-making.
 
-Analyze historical sales trends
+---
 
-Identify seasonality in sales data
+## 🎯 Objectives
 
-Forecast future sales using AI 
+- Analyze historical sales trends  
+- Identify seasonality patterns  
+- Forecast future sales using AI  
+- Detect anomalies in sales behavior  
+- Generate automated insights with Smart Narratives  
+- Support data-driven business decisions  
 
-Detect anomalies in sales patterns
+---
 
-Generate automated insights using Smart Narratives
+## 🗂 Dataset Description
 
-Support data-driven decision-making
+Retail sales dataset containing:
 
-🗂 Dataset Used
+- Weekly Sales  
+- Store Information  
+- Holiday Flag  
+- Fuel Price  
+- Temperature  
+- Economic Indicators  
 
-A retail sales dataset containing:
+This dataset enables time-series analysis and seasonal pattern detection.
 
-Weekly Sales
+---
 
-Store Information
+## 🛠 Tools & Technologies
 
-Holiday Flag
+- **Power BI Desktop**
+- **Power BI AI Features**
+  - Forecasting  
+  - Anomaly Detection  
+  - Smart Narratives  
 
-Fuel Price
+---
 
-Temperature
+## 📈 Dashboard Features
 
-Economic Indicators
+### 1️⃣ KPI Cards
+- Total Sales  
+- Average Weekly Sales  
+- Highest Weekly Sales  
 
-The dataset allows analysis of time-based trends and seasonal patterns.
+Provides an instant overview of business performance.
 
-🛠 Tools & Technologies
+---
 
-Power BI Desktop
+### 2️⃣ Sales Trend Analysis
+Line and area charts visualize sales over time, highlighting fluctuations and long-term trends.
 
-Power BI AI Features:
+---
 
-Forecasting
+### 3️⃣ Seasonality Analysis
+Identifies increased demand during holiday periods, especially in year-end months.
 
-Anomaly Detection
+---
 
-Smart Narratives
+### 4️⃣ Sales Forecasting
+Power BI forecasting predicts future sales using historical data with confidence intervals.
 
-📈 Dashboard Features 1️⃣ KPI Cards
+---
 
-Total Sales
+### 5️⃣ Anomaly Detection
+AI automatically highlights unusual spikes or drops in sales, primarily around festive seasons.
 
-Average Weekly Sales
+---
 
-Highest Weekly Sales
+### 6️⃣ Store Performance Analysis
+Bar charts compare store-wise sales to identify top-performing and underperforming stores.
 
-These provide a quick summary of performance.
+---
 
-2️⃣ Sales Trend Analysis
+### 7️⃣ Holiday vs Non-Holiday Comparison
+Donut charts visualize sales contribution during holiday and non-holiday periods.
 
-Line and area charts show how sales change over time, highlighting patterns and fluctuations.
+---
 
-3️⃣ Seasonality Analysis
+### 8️⃣ Smart Narrative Insights
+Automatically generated summaries provide key observations, trends, and detected anomalies.
 
-Sales trends reveal higher demand during holiday periods, especially year-end months.
+---
 
-4️⃣ Sales Forecasting
+## 🔍 Key Insights
 
-Power BI forecasting predicts future sales using historical data and confidence intervals.
+- Sales exhibit fluctuations with an overall declining trend  
+- Holiday periods significantly boost sales  
+- Major anomalies appear during festive months  
+- Forecast models extend historical trends into future periods  
 
-5️⃣ Anomaly Detection
+---
 
-AI identifies unusual spikes in sales, especially during holiday seasons.
+## 💼 Business Impact
 
-6️⃣ Store Performance Analysis
+The dashboard enables management to:
 
-Bar charts compare store-wise sales to identify top and low performers.
+- Plan inventory for peak seasons  
+- Launch targeted promotional campaigns  
+- Improve low-performing stores  
+- Anticipate future demand  
+- Make proactive strategic decisions  
 
-7️⃣ Holiday vs Non-Holiday Comparison
+---
 
-A donut chart shows the impact of holidays on sales.
+## ⚠️ Limitations
 
-8️⃣ Smart Narrative Insights
+- Forecast accuracy depends on historical data  
+- Sudden market changes may not be reflected  
+- External factors (promotions, economic shifts) can influence results  
 
-Automatically generated summaries highlight key trends and anomalies.
+---
 
-🔍 Key Insights
+## ✅ Conclusion
 
-Sales show fluctuations with a general decline trend
+This project demonstrates how **AI-powered analytics in Power BI** can transform traditional reporting into predictive intelligence.  
+Sales forecasting and anomaly detection provide actionable insights that support strategic planning and drive business growth.
 
-Holiday periods significantly impact sales
+---
 
-Major anomalies occur during festive months
+## 📎 Author
 
-Forecast predicts continued trends based on past data
+**Dharun**  
+B.E Artificial Intelligence & Machine Learning  
 
-💼 Business Impact
+---
 
-This dashboard helps management:
-
-Plan inventory for peak seasons
-
-Run targeted promotions
-
-Improve low-performing stores
-
-Prepare for future demand using forecasts
-
-Make proactive business decisions
-
-⚠️ Limitations
-
-Forecast depends on historical data
-
-Sudden market changes may not be captured
-
-External factors like promotions or economic shifts can affect accuracy
-
-✅ Conclusion
-
-This project demonstrates how AI-powered analytics in Power BI can help organizations shift from reactive to predictive decision-making. Forecasting and anomaly detection provide valuable insights for strategic planning and business growth.
+⭐ If you find this project useful, feel free to star the repository!
